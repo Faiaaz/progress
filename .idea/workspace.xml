@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cc69ce0-9d53-4b00-8428-bcdc2fbbd8e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/progress.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/progress.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress_report/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/progress_report/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,22 +140,34 @@
       <workItem from="1595324646210" duration="2302000" />
       <workItem from="1595328670930" duration="164000" />
       <workItem from="1595328977297" duration="10381000" />
-      <workItem from="1595385542419" duration="1978000" />
+      <workItem from="1595385542419" duration="3391000" />
     </task>
+    <task id="LOCAL-00001" summary="installed python sdk in progress.iml&#10;imported progress_report models">
+      <created>1595387888028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595387888029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="installed python sdk in progress.iml&#10;imported progress_report models" />
+    <option name="LAST_COMMIT_MESSAGE" value="installed python sdk in progress.iml&#10;imported progress_report models" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="0" key="#progress" timestamp="1595386798634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="392" y="0" key="#progress/0.0.1366.728@0.0.1366.728" timestamp="1595386798634" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1595386450540">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1595387887149">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595386450540" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1595387887149" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1595386007283">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -167,22 +180,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="489" y="59" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1595386228217" />
-    <state width="1323" height="156" key="GridCell.Tab.0.bottom" timestamp="1595387383675">
+    <state width="1323" height="156" key="GridCell.Tab.0.bottom" timestamp="1595389710564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595387383675" />
-    <state width="1323" height="156" key="GridCell.Tab.0.center" timestamp="1595387383675">
+    <state width="1323" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595389710564" />
+    <state width="1323" height="156" key="GridCell.Tab.0.center" timestamp="1595389710564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595387383675" />
-    <state width="1323" height="156" key="GridCell.Tab.0.left" timestamp="1595387383675">
+    <state width="1323" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595389710564" />
+    <state width="1323" height="156" key="GridCell.Tab.0.left" timestamp="1595389710564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595387383675" />
-    <state width="1323" height="156" key="GridCell.Tab.0.right" timestamp="1595387383675">
+    <state width="1323" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595389710564" />
+    <state width="1323" height="156" key="GridCell.Tab.0.right" timestamp="1595389710564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595387383675" />
+    <state width="1323" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595389710564" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1595386828093">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
